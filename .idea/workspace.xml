@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e51e99b-e200-4516-a1ae-65dffb501210" name="Default" comment="1.001">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/applicationContext.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/controller/LoginController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/mapper/Category.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/mapper/StudentInfo.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/mapper/StudentInfoMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/mapper/StudentVolunteer.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/mapper/StudentVolunteerMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/pojo/Category.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/pojo/StudentInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/pojo/StudentVolunteer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/com/StuSystem/util/Page.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/springMVC.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/demo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/fox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/fox.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/husky.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/husky.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/css/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/fonts/codropsicons/codropsicons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/fonts/codropsicons/codropsicons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/fonts/codropsicons/codropsicons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/fonts/codropsicons/codropsicons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/fonts/codropsicons/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Angry/angry_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/cymbal.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/drink.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/eat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/fart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/pie.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Button/scratch.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Cymbal/cymbal_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_30.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_31.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_32.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_34.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_35.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_36.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_37.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_38.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_39.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_40.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_41.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_42.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_43.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_44.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_45.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_46.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_47.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_48.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_49.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_50.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_51.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_52.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_53.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_54.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_55.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_56.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_57.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_58.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_59.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_60.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_61.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_62.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_63.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_64.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_65.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_66.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_67.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_68.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_69.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_70.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_71.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_73.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_74.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_75.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_76.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_77.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_78.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_79.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_80.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Drink/drink_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_30.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_31.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_32.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_34.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_35.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_36.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_37.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_38.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_39.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Eat/eat_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Fart/fart_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootLeft/footLeft_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/FootRight/footRight_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_30.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_31.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_32.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_34.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_35.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_36.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_37.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_38.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_39.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_40.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_41.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_42.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_43.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_44.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_45.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_46.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_47.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_48.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_49.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_50.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_51.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_52.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_53.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_54.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_55.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_56.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_57.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_58.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_59.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_60.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_61.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_62.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_63.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_64.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_65.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_66.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_67.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_68.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_69.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_70.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_71.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_73.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_74.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_75.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_76.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_77.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_78.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_79.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_80.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Knockout/knockout_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Pie/pie_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_30.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_31.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_32.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_34.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_35.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_36.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_37.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_38.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_39.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_40.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_41.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_42.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_43.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_44.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_45.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_46.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_47.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_48.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_49.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_50.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_51.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_52.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_53.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_54.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_55.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Scratch/scratch_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_26.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_27.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_28.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_29.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_30.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_31.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_32.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Stomach/stomach_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/link-fox.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/images/link-husky.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/_index.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/_index.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/sache.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/sassdash.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/_sassdash.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_add.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_after.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_ary.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_assign.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_at.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_before.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_bind.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_call.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_callback.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_case.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_chunk.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_compact.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_compare.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_concat.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_constant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_context.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_count-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_create.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_debug.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_declare.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_defaults.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_difference.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_drop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_either.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_encode.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_ends-with.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_escape.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_every.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_exec.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_extrema.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_fill.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_filter.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_find.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_first.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_flatten.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_flow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_for.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_group-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_has.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_identity.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_includes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_index-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_index-of.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_initial.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_intersection.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_invert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_invoke.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_is-empty.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_is-equal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_is-match.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_is-type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_join.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_keys.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_last.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_map.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_matches.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_memoize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_merge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_modify.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_negate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_noop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_omit.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_once.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_pad.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_pairs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_parse-int.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_partial.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_partition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_pick.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_pluck.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_property.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_pull.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_push.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_rand.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_range.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_reduce.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_reject.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_repeat.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_replace.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_rest.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_result.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_reverse.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_rules.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_sample.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_shuffle.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_slice.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_some.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_sort.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_sorted-index.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_splice.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_split.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_starts-with.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_sum.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_take.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_times.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_to-list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_to-string.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_trim.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_trunc.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_unescape.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_union.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_uniq.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_unique-id.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_unzip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_values.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_where.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_without.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_words.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_xor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/api/_zip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_char.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_constructor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_escapes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_flags.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_global.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_native.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_number.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_trunc.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/constants/_units.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_aggregator.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_call.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_chain.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_char.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_coercion.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_compounder.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_number.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/helpers/_scope.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/static/_local.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/static/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/scss/static/_static.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/_helpers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_add.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_after.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_ary.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_assign.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_at.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_before.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_bind.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_call.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_callback.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_case.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_char.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_chunk.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_compact.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_compare.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_concat.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_constant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_context.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_count-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_create.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_defaults.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_difference.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_drop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_either.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_encode.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_ends-with.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_escape.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_every.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_extrema.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_fill.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_filter.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_find.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_first.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_flatten.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_flow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_for.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_get.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_group-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_has.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_identity.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_includes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_index-by.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_index-of.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_initial.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_intersection.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_invert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_invoke.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_is-equal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_is-match.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_is-type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_join.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_keys.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_last.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_map-keys.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_map-values.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_map.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_matches.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_memoize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_merge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_modify.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_native.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_negate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_noop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_omit.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_once.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_pad.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_pairs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_parse-float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_parse-int.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_partial.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_partition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_pick.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_pluck.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_property.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_pull.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_push.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_rand.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_range.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_reduce.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_reject.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_repeat.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_replace.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_rest.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_result.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_reverse.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_rules.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_sample.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_set.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_shuffle.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_slice.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_some.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_sort.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_splice.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_split.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_starts-with.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_sum.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_take.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_times.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_to-list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_to-map.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_to-string.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_trim.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_trunc.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_unescape.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_union.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_uniq.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_unique-id.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_values.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_where.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_without.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_words.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_xor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/api/_zip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/compatibility/_module.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/compatibility/_var-args.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/node_modules/sassdash/tests/tests.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/scss/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/test/test.css/test.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/node_modules/sass-svg/test/test.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/scss/__svg.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/scss/fox.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/scss/husky.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/controller/LoginController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/mapper/StudentInfoMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/mapper/StudentVolunteerMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/pojo/Category.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/pojo/StudentInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/pojo/StudentVolunteer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/service/StudentInfoService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/service/StudentVolunteerService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/service/impl/StudentInfoServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/service/impl/StudentVolunteerServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/StuSystem/util/Page.class" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Geek.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/.idea/dictionaries/Geek.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/resource/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springMVC.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/resource/springMVC.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/WEB-INF/jsp/error.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/WEB-INF/jsp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listCategory.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/WEB-INF/jsp/listCategory.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/WebContent/l.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssm.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ssm/ssm.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_TAGS" value="true" />
+    <option name="SHOW_REMOTE_BRANCHES" value="true" />
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/startView.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/StudentInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/StudentInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/impl/StudentInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/StudentInfo.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/stuManger.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/TeacherInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/TeacherInfo.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/TeacherInfo.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/pojo/TeacherInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/TeacherInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/impl/TeacherInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/StudentVolunteer.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/StudentVolunteerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/mapper/StudentVolunteerMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/service/impl/StudentVolunteerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tchManager.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StuSystem/util/toExcel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15104167" />
+    <property name="project.structure.side.proportion" value="0.2047546" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\SSM project\StuSystem\src\main\java\com\StuSystem\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.28" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51658" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e51e99b-e200-4516-a1ae-65dffb501210" name="Default" comment="" />
+      <created>1527419684887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527419684887</updated>
+      <workItem from="1527419688057" duration="2400000" />
+      <workItem from="1527422195286" duration="6439000" />
+      <workItem from="1527429056210" duration="924000" />
+      <workItem from="1527469737506" duration="4810000" />
+      <workItem from="1527488245840" duration="820000" />
+      <workItem from="1527554115131" duration="486000" />
+      <workItem from="1527554706599" duration="3405000" />
+      <workItem from="1527559640883" duration="939000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.001">
+      <created>1527476890726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527476890726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22279000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13417432" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48165137" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27552083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="1.001" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.001" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../ssm/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/.jsdtscope">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/org.eclipse.jdt.core.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/org.eclipse.wst.common.component">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/org.eclipse.wst.common.project.facet.core.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/org.eclipse.wst.jsdt.ui.superType.container">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/.settings/org.eclipse.wst.jsdt.ui.superType.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/controller/CategoryController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1537">
+          <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/controller/LoginController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/mapper/Category.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/mapper/CategoryMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/mapper/StudentInfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/mapper/StudentInfoMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/pojo/Category.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/pojo/StudentInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/service/impl/CategoryServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/service/impl/StudentInfoServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/service/CategoryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/com/how2java/service/StudentInfoService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/build/classes/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/controller/CategoryController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/controller/LoginController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/mapper/Category.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/mapper/CategoryMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/mapper/StudentInfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/mapper/StudentInfoMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/pojo/Category.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/pojo/StudentInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/service/impl/CategoryServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/service/impl/StudentInfoServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/service/CategoryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/com/how2java/service/StudentInfoService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/classes/artifacts/unnamed/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/mapper/Category.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/mapper/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/mapper/StudentInfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/mapper/StudentInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/pojo/StudentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/service/impl/StudentInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/java/com/how2java/service/StudentInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/resource/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssm:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2047546" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

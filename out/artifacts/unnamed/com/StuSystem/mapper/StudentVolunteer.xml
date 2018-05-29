@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.StuSystem.mapper.StudentVolunteerMapper">
+    <insert id="add" parameterType="StudentVolunteer">
+        INSERT INTO student_volunteer(stu_no,stu_volunteer,selection_result,stu_class,stu_name) VALUES(#{stu_no},#{stu_volunteer},#{selection_result},#{stu_class},#{stu_name})
+    </insert>
+</mapper>
